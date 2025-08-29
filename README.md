@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aitzaz Hassan</h1>
 
-<h3 align="center">A passionate frontend developer from Hyderabad, Pakistan</h3>
+<h3 align="center">A passionate Full Stack developer from Hyderabad, Pakistan</h3>
 
 
 <img>
