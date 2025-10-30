@@ -2,11 +2,7 @@
 
 <h3 align="center">Full Stack Developer passionate about building
 scalable, user-focused web solutions that enhance
-performance and business value. Skilled in Next.js,
-TypeScript, Tailwind, and Prisma, with a focus on
-clean architecture and seamless user experience.
-Committed to crafting reliable systems and web
-solutions</h3>
+performance and business value.</h3>
 
 
 <img>
