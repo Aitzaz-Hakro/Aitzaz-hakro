@@ -22,10 +22,10 @@ performance and business value.</h3>
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aitzaz_hakro" height="30" width="40" />
 </a>
  <a href="https://medium.com/@aitzazhakro123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aitzazhakro123" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aitzazhassan/" target="_blank">
+<a href="https://www.linkedin.com/in/aitzazhassan2005/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
 </a>
-<a href="[facebook.com/profile.php?id=61558071621584&mibextid=ZbWKwL](https://www.facebook.com/people/Aitzaz-Hakro/pfbid0WLK6KsibAQEoCDQw4fUnNweVb3nZPJ1ikVspA5o1yKREasyujdTn8PhyP6wH4BMYl/?mibextid=ZbWKwL)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aitzaz hassan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/people/Aitzaz-Hakro/pfbid0WLK6KsibAQEoCDQw4fUnNweVb3nZPJ1ikVspA5o1yKREasyujdTn8PhyP6wH4BMYl/?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aitzaz hassan" height="30" width="40" /></a>
 <a href="https://instagram.com/aitzaz_hakro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aitzaz_hakro" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@aitzazhakro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aitzaz hassan hakro" height="30" width="40" /></a>
 </p>
